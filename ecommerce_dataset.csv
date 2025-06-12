@@ -1,0 +1,501 @@
+OrderID,CustomerID,Gender,Age,ProductCategory,ProductName,Quantity,PricePerUnit,OrderDate,City,PaymentMethod,DeliveryStatus,CustomerRating,TotalPrice
+ORD1000,CUST160,Other,27,Clothing,Perfume,4,155.05,2023-10-04,Durban,Cash,Delivered,2,620.2
+ORD1001,CUST120,Male,36,Clothing,Puzzle,4,135.24,2023-06-05,Durban,Cash,Delivered,3,540.96
+ORD1002,CUST172,Other,49,Books,Doll,1,183.27,2023-09-05,Port Elizabeth,Cash,Delivered,4,183.27
+ORD1003,CUST154,Other,18,Books,Blender,3,48.38,2023-08-06,Port Elizabeth,Credit Card,Pending,5,145.14
+ORD1004,CUST172,Male,22,Beauty,Shirt,1,468.79,2023-07-09,Port Elizabeth,Credit Card,Pending,2,468.79
+ORD1005,CUST110,Male,62,Toys,Shirt,3,279.13,2023-06-12,Cape Town,Cash,Delivered,3,837.39
+ORD1006,CUST176,Other,21,Beauty,Laptop,1,156.23,2023-06-29,Port Elizabeth,Credit Card,Delivered,4,156.23
+ORD1007,CUST147,Female,33,Electronics,Novel,4,201.51,2023-02-03,Durban,Bank Transfer,Pending,4,806.04
+ORD1008,CUST116,Other,41,Electronics,Shirt,1,226.37,2023-02-10,Durban,Cash,Returned,1,226.37
+ORD1009,CUST198,Other,33,Beauty,Cookbook,1,302.29,2023-11-03,Cape Town,Credit Card,Cancelled,1,302.29
+ORD1010,CUST126,Other,19,Toys,Laptop,1,260.26,2023-12-04,Cape Town,Debit Card,Cancelled,2,260.26
+ORD1011,CUST105,Other,66,Beauty,Shirt,4,460.1,2023-11-10,Port Elizabeth,Cash,Delivered,1,1840.4
+ORD1012,CUST175,Male,45,Toys,Novel,4,251.0,2023-03-16,Pretoria,Cash,Returned,2,1004.0
+ORD1013,CUST180,Other,49,Toys,Phone,4,496.12,2023-10-06,Cape Town,Bank Transfer,Pending,5,1984.48
+ORD1014,CUST111,Female,44,Home,Phone,4,426.46,2023-06-25,Johannesburg,PayPal,Delivered,2,1705.84
+ORD1015,CUST162,Male,37,Toys,Puzzle,3,108.21,2023-05-30,Durban,PayPal,Returned,1,324.63
+ORD1016,CUST165,Female,41,Books,Doll,3,465.64,2023-09-30,Johannesburg,Bank Transfer,Returned,5,1396.92
+ORD1017,CUST107,Female,29,Toys,Blender,2,62.6,2023-11-21,Durban,Bank Transfer,Returned,1,125.2
+ORD1018,CUST198,Female,67,Toys,Phone,4,409.64,2023-04-18,Durban,Bank Transfer,Pending,2,1638.56
+ORD1019,CUST132,Female,52,Toys,Perfume,3,193.41,2023-05-19,Cape Town,PayPal,Pending,3,580.23
+ORD1020,CUST182,Male,50,Electronics,Shirt,1,439.6,2023-12-16,Cape Town,Bank Transfer,Cancelled,4,439.6
+ORD1021,CUST138,Male,50,Books,Perfume,4,434.69,2023-09-28,Johannesburg,Credit Card,Cancelled,1,1738.76
+ORD1022,CUST185,Female,68,Books,Novel,2,403.93,2023-12-13,Durban,Cash,Returned,2,807.86
+ORD1023,CUST122,Female,60,Beauty,Phone,2,396.07,2023-10-16,Johannesburg,Cash,Returned,5,792.14
+ORD1024,CUST176,Male,54,Home,Blender,2,155.82,2023-07-31,Pretoria,Debit Card,Pending,1,311.64
+ORD1025,CUST135,Male,29,Toys,Novel,1,45.06,2023-09-29,Johannesburg,Debit Card,Cancelled,1,45.06
+ORD1026,CUST100,Male,20,Clothing,Cookbook,3,204.48,2023-03-07,Port Elizabeth,Cash,Returned,4,613.44
+ORD1027,CUST129,Other,18,Home,Cookbook,1,90.89,2023-09-05,Johannesburg,Credit Card,Cancelled,2,90.89
+ORD1028,CUST107,Other,50,Home,Perfume,4,349.0,2023-06-05,Port Elizabeth,PayPal,Cancelled,3,1396.0
+ORD1029,CUST152,Other,57,Books,Doll,2,176.32,2023-02-16,Port Elizabeth,PayPal,Returned,5,352.64
+ORD1030,CUST116,Female,27,Home,Laptop,1,487.93,2023-07-20,Port Elizabeth,Credit Card,Pending,2,487.93
+ORD1031,CUST127,Other,60,Toys,Doll,1,322.28,2023-05-28,Pretoria,PayPal,Returned,5,322.28
+ORD1032,CUST140,Female,61,Toys,Puzzle,3,412.13,2023-05-04,Johannesburg,Bank Transfer,Returned,1,1236.39
+ORD1033,CUST179,Female,46,Electronics,Doll,3,70.6,2023-01-01,Johannesburg,Cash,Cancelled,4,211.8
+ORD1034,CUST192,Other,30,Toys,Puzzle,2,431.7,2023-09-04,Pretoria,Cash,Returned,4,863.4
+ORD1035,CUST133,Female,29,Toys,Puzzle,1,461.76,2023-12-09,Durban,Credit Card,Pending,3,461.76
+ORD1036,CUST145,Other,48,Books,Blender,1,246.1,2023-05-08,Cape Town,PayPal,Returned,4,246.1
+ORD1037,CUST102,Other,63,Toys,Phone,3,305.1,2023-07-10,Johannesburg,Debit Card,Pending,1,915.3
+ORD1038,CUST101,Male,19,Electronics,Blender,1,383.58,2023-03-08,Cape Town,Debit Card,Pending,3,383.58
+ORD1039,CUST111,Other,68,Clothing,Puzzle,1,91.55,2023-01-04,Pretoria,PayPal,Cancelled,2,91.55
+ORD1040,CUST191,Male,67,Books,Novel,1,253.77,2023-10-30,Durban,Debit Card,Delivered,4,253.77
+ORD1041,CUST166,Other,52,Clothing,Cookbook,3,202.34,2023-10-21,Durban,Credit Card,Delivered,3,607.02
+ORD1042,CUST151,Other,40,Books,Puzzle,2,77.46,2023-05-23,Durban,Credit Card,Cancelled,1,154.92
+ORD1043,CUST103,Male,34,Beauty,Blender,4,186.93,2023-07-10,Pretoria,PayPal,Returned,5,747.72
+ORD1044,CUST134,Male,43,Home,Novel,2,38.75,2023-01-21,Port Elizabeth,Debit Card,Cancelled,5,77.5
+ORD1045,CUST117,Other,25,Beauty,Blender,4,17.78,2023-08-15,Port Elizabeth,Credit Card,Pending,1,71.12
+ORD1046,CUST141,Female,46,Toys,Doll,1,71.91,2023-11-09,Cape Town,Credit Card,Delivered,1,71.91
+ORD1047,CUST102,Male,43,Clothing,Shirt,2,481.74,2023-04-27,Port Elizabeth,Bank Transfer,Cancelled,5,963.48
+ORD1048,CUST144,Female,27,Toys,Perfume,4,277.02,2023-10-29,Port Elizabeth,Bank Transfer,Returned,3,1108.08
+ORD1049,CUST174,Female,43,Home,Laptop,3,483.08,2023-05-22,Durban,Credit Card,Cancelled,5,1449.24
+ORD1050,CUST122,Female,51,Books,Blender,3,219.09,2023-02-08,Durban,PayPal,Delivered,1,657.27
+ORD1051,CUST195,Male,68,Home,Laptop,2,159.35,2023-12-21,Cape Town,Cash,Cancelled,4,318.7
+ORD1052,CUST136,Female,58,Electronics,Pants,2,255.54,2023-09-09,Johannesburg,Cash,Cancelled,2,511.08
+ORD1053,CUST194,Male,24,Home,Blender,1,222.56,2023-11-29,Cape Town,Credit Card,Delivered,4,222.56
+ORD1054,CUST139,Female,21,Electronics,Shirt,2,57.3,2023-07-26,Cape Town,Credit Card,Pending,4,114.6
+ORD1055,CUST155,Other,67,Home,Laptop,1,322.21,2023-07-29,Pretoria,Credit Card,Pending,1,322.21
+ORD1056,CUST109,Other,62,Electronics,Puzzle,1,111.94,2023-04-25,Pretoria,PayPal,Delivered,5,111.94
+ORD1057,CUST191,Male,28,Clothing,Blender,3,311.7,2023-08-13,Cape Town,Bank Transfer,Cancelled,3,935.1
+ORD1058,CUST153,Other,46,Toys,Phone,3,326.85,2023-05-14,Cape Town,Credit Card,Delivered,4,980.55
+ORD1059,CUST109,Other,53,Toys,Perfume,4,80.25,2023-09-08,Cape Town,Credit Card,Pending,5,321.0
+ORD1060,CUST172,Female,42,Beauty,Shirt,3,35.37,2023-08-07,Port Elizabeth,Debit Card,Returned,3,106.11
+ORD1061,CUST107,Male,38,Toys,Laptop,3,391.48,2023-04-01,Pretoria,PayPal,Cancelled,4,1174.44
+ORD1062,CUST195,Female,53,Books,Shirt,2,232.6,2023-12-20,Cape Town,Credit Card,Pending,3,465.2
+ORD1063,CUST159,Female,27,Home,Novel,3,33.79,2023-02-15,Durban,Debit Card,Cancelled,5,101.37
+ORD1064,CUST160,Female,54,Beauty,Perfume,4,497.46,2023-02-07,Durban,Cash,Delivered,2,1989.84
+ORD1065,CUST146,Female,26,Books,Puzzle,2,33.6,2023-05-22,Port Elizabeth,Credit Card,Returned,5,67.2
+ORD1066,CUST168,Female,41,Books,Blender,4,349.04,2023-04-10,Port Elizabeth,Credit Card,Delivered,1,1396.16
+ORD1067,CUST118,Female,52,Electronics,Blender,3,491.92,2023-11-24,Johannesburg,Debit Card,Returned,3,1475.76
+ORD1068,CUST162,Female,66,Toys,Blender,4,123.39,2023-07-09,Johannesburg,PayPal,Cancelled,2,493.56
+ORD1069,CUST140,Male,52,Clothing,Perfume,2,75.41,2023-02-04,Johannesburg,Credit Card,Cancelled,3,150.82
+ORD1070,CUST138,Other,65,Clothing,Phone,1,65.09,2023-05-27,Port Elizabeth,Cash,Delivered,3,65.09
+ORD1071,CUST141,Female,53,Beauty,Pants,4,155.12,2023-01-30,Port Elizabeth,Credit Card,Returned,4,620.48
+ORD1072,CUST117,Female,35,Clothing,Cookbook,4,55.02,2023-11-30,Port Elizabeth,Cash,Returned,1,220.08
+ORD1073,CUST178,Female,66,Home,Doll,2,347.62,2023-03-25,Durban,Bank Transfer,Cancelled,3,695.24
+ORD1074,CUST149,Female,56,Clothing,Laptop,2,35.83,2023-10-08,Port Elizabeth,Bank Transfer,Delivered,5,71.66
+ORD1075,CUST151,Female,49,Beauty,Phone,4,257.16,2023-12-10,Durban,Cash,Returned,5,1028.64
+ORD1076,CUST130,Female,41,Clothing,Puzzle,3,498.36,2023-09-27,Johannesburg,PayPal,Cancelled,4,1495.08
+ORD1077,CUST138,Other,40,Home,Laptop,4,407.92,2023-06-03,Johannesburg,Credit Card,Pending,1,1631.68
+ORD1078,CUST195,Other,49,Electronics,Blender,2,309.53,2023-04-12,Johannesburg,Credit Card,Delivered,1,619.06
+ORD1079,CUST133,Female,54,Beauty,Shirt,1,156.6,2023-08-03,Cape Town,Bank Transfer,Pending,5,156.6
+ORD1080,CUST144,Other,29,Electronics,Puzzle,1,313.83,2023-05-30,Cape Town,Cash,Delivered,2,313.83
+ORD1081,CUST127,Male,66,Electronics,Laptop,3,265.89,2023-03-24,Pretoria,Credit Card,Cancelled,4,797.67
+ORD1082,CUST157,Female,30,Electronics,Blender,4,215.91,2023-04-20,Pretoria,Credit Card,Returned,4,863.64
+ORD1083,CUST132,Male,40,Books,Laptop,1,69.7,2023-10-02,Pretoria,PayPal,Returned,5,69.7
+ORD1084,CUST186,Male,42,Toys,Shirt,4,443.87,2023-07-20,Cape Town,Debit Card,Returned,5,1775.48
+ORD1085,CUST105,Female,52,Books,Blender,2,227.64,2023-10-11,Cape Town,Bank Transfer,Delivered,2,455.28
+ORD1086,CUST177,Other,58,Toys,Pants,1,101.34,2023-06-22,Pretoria,Bank Transfer,Cancelled,2,101.34
+ORD1087,CUST146,Male,47,Electronics,Phone,3,187.04,2023-11-23,Pretoria,Debit Card,Pending,1,561.12
+ORD1088,CUST106,Female,34,Beauty,Novel,2,209.99,2023-07-25,Port Elizabeth,Credit Card,Cancelled,4,419.98
+ORD1089,CUST119,Male,66,Toys,Doll,3,414.63,2023-03-04,Pretoria,PayPal,Pending,4,1243.89
+ORD1090,CUST128,Male,37,Home,Perfume,2,368.14,2023-03-14,Port Elizabeth,PayPal,Delivered,5,736.28
+ORD1091,CUST115,Male,65,Home,Doll,1,385.81,2023-09-08,Durban,Bank Transfer,Delivered,1,385.81
+ORD1092,CUST151,Male,42,Clothing,Puzzle,3,10.46,2023-05-04,Cape Town,PayPal,Pending,4,31.38
+ORD1093,CUST100,Other,39,Toys,Doll,3,211.0,2023-05-01,Pretoria,Debit Card,Pending,1,633.0
+ORD1094,CUST155,Male,30,Beauty,Blender,2,243.27,2023-10-02,Cape Town,Credit Card,Pending,1,486.54
+ORD1095,CUST105,Male,36,Books,Pants,3,14.5,2023-04-30,Cape Town,Debit Card,Cancelled,5,43.5
+ORD1096,CUST181,Male,66,Electronics,Novel,2,133.61,2023-11-13,Cape Town,Cash,Pending,1,267.22
+ORD1097,CUST185,Other,53,Clothing,Phone,2,381.34,2023-06-13,Durban,Bank Transfer,Delivered,2,762.68
+ORD1098,CUST119,Male,29,Home,Phone,2,72.87,2023-10-13,Johannesburg,PayPal,Delivered,2,145.74
+ORD1099,CUST142,Male,58,Books,Shirt,2,269.98,2023-09-22,Pretoria,Cash,Returned,3,539.96
+ORD1100,CUST170,Other,36,Books,Perfume,1,111.52,2023-11-16,Johannesburg,PayPal,Pending,5,111.52
+ORD1101,CUST110,Other,29,Electronics,Laptop,2,11.0,2023-06-10,Johannesburg,Credit Card,Cancelled,3,22.0
+ORD1102,CUST178,Other,26,Toys,Pants,4,124.39,2023-11-04,Johannesburg,Credit Card,Cancelled,2,497.56
+ORD1103,CUST142,Male,24,Home,Laptop,3,488.06,2023-03-30,Cape Town,Credit Card,Cancelled,3,1464.18
+ORD1104,CUST199,Other,45,Beauty,Novel,4,401.76,2023-05-22,Port Elizabeth,PayPal,Returned,5,1607.04
+ORD1105,CUST127,Other,31,Books,Doll,1,479.99,2023-07-22,Cape Town,Cash,Delivered,5,479.99
+ORD1106,CUST183,Male,48,Electronics,Phone,4,246.49,2023-11-05,Cape Town,Credit Card,Cancelled,1,985.96
+ORD1107,CUST113,Other,69,Beauty,Novel,3,59.32,2023-08-15,Johannesburg,Cash,Delivered,4,177.96
+ORD1108,CUST155,Male,36,Toys,Doll,4,276.24,2023-11-30,Cape Town,PayPal,Returned,1,1104.96
+ORD1109,CUST125,Female,64,Home,Phone,1,229.92,2023-08-10,Johannesburg,Cash,Pending,5,229.92
+ORD1110,CUST172,Other,33,Toys,Doll,2,422.96,2023-02-10,Port Elizabeth,PayPal,Pending,2,845.92
+ORD1111,CUST104,Female,22,Books,Perfume,4,53.55,2023-07-15,Pretoria,PayPal,Pending,2,214.2
+ORD1112,CUST126,Male,52,Beauty,Pants,1,246.68,2023-03-09,Johannesburg,Bank Transfer,Cancelled,1,246.68
+ORD1113,CUST175,Other,29,Beauty,Puzzle,1,79.27,2023-09-21,Port Elizabeth,PayPal,Pending,5,79.27
+ORD1114,CUST139,Male,42,Beauty,Novel,3,165.71,2023-01-02,Pretoria,PayPal,Cancelled,2,497.13
+ORD1115,CUST149,Female,69,Books,Novel,3,369.99,2023-12-27,Durban,Debit Card,Returned,5,1109.97
+ORD1116,CUST131,Male,38,Books,Cookbook,4,240.63,2023-05-05,Johannesburg,Credit Card,Returned,2,962.52
+ORD1117,CUST179,Other,53,Toys,Blender,2,191.06,2023-04-20,Johannesburg,Bank Transfer,Cancelled,5,382.12
+ORD1118,CUST190,Other,40,Clothing,Perfume,1,200.27,2023-03-27,Durban,Bank Transfer,Delivered,3,200.27
+ORD1119,CUST175,Female,33,Toys,Perfume,4,232.43,2023-04-30,Durban,Bank Transfer,Pending,5,929.72
+ORD1120,CUST191,Male,56,Home,Laptop,1,393.58,2023-05-07,Johannesburg,Debit Card,Pending,5,393.58
+ORD1121,CUST189,Other,62,Electronics,Doll,1,446.58,2023-09-12,Durban,PayPal,Pending,1,446.58
+ORD1122,CUST165,Female,59,Beauty,Blender,2,477.89,2023-07-02,Cape Town,Credit Card,Cancelled,3,955.78
+ORD1123,CUST130,Other,56,Clothing,Pants,2,394.52,2023-01-16,Pretoria,Cash,Returned,4,789.04
+ORD1124,CUST188,Other,31,Electronics,Pants,4,161.13,2023-03-03,Pretoria,PayPal,Pending,1,644.52
+ORD1125,CUST125,Male,48,Clothing,Perfume,2,345.63,2023-06-07,Pretoria,Debit Card,Returned,4,691.26
+ORD1126,CUST172,Other,22,Toys,Pants,2,221.61,2023-09-25,Cape Town,PayPal,Pending,2,443.22
+ORD1127,CUST118,Male,52,Books,Cookbook,4,131.06,2023-02-04,Durban,PayPal,Pending,4,524.24
+ORD1128,CUST150,Other,40,Beauty,Novel,2,421.23,2023-09-24,Port Elizabeth,Debit Card,Cancelled,5,842.46
+ORD1129,CUST114,Female,46,Toys,Shirt,3,24.02,2023-03-05,Durban,Bank Transfer,Delivered,4,72.06
+ORD1130,CUST143,Other,60,Electronics,Puzzle,1,451.37,2023-02-19,Johannesburg,Bank Transfer,Cancelled,1,451.37
+ORD1131,CUST180,Male,28,Electronics,Laptop,1,233.43,2023-09-12,Pretoria,Credit Card,Pending,1,233.43
+ORD1132,CUST102,Male,35,Electronics,Doll,1,320.41,2023-05-29,Durban,Credit Card,Pending,4,320.41
+ORD1133,CUST147,Female,64,Electronics,Puzzle,1,331.38,2023-11-21,Port Elizabeth,Bank Transfer,Delivered,1,331.38
+ORD1134,CUST108,Other,29,Electronics,Doll,4,448.08,2023-10-31,Johannesburg,Cash,Returned,1,1792.32
+ORD1135,CUST165,Other,26,Clothing,Phone,1,320.15,2023-10-03,Cape Town,PayPal,Returned,4,320.15
+ORD1136,CUST148,Female,27,Toys,Puzzle,1,308.9,2023-12-23,Cape Town,Cash,Pending,3,308.9
+ORD1137,CUST150,Other,61,Beauty,Shirt,1,37.99,2023-06-21,Port Elizabeth,PayPal,Returned,3,37.99
+ORD1138,CUST109,Other,34,Books,Perfume,1,261.61,2023-07-20,Johannesburg,Bank Transfer,Pending,2,261.61
+ORD1139,CUST147,Male,55,Books,Cookbook,3,79.33,2023-11-20,Pretoria,Credit Card,Delivered,1,237.99
+ORD1140,CUST184,Other,24,Toys,Novel,1,370.03,2023-02-04,Durban,Credit Card,Delivered,4,370.03
+ORD1141,CUST193,Other,63,Toys,Novel,3,258.55,2023-08-04,Johannesburg,Cash,Pending,1,775.65
+ORD1142,CUST199,Female,30,Books,Cookbook,4,341.71,2023-03-06,Cape Town,Credit Card,Delivered,5,1366.84
+ORD1143,CUST119,Female,57,Books,Blender,2,25.63,2023-01-08,Port Elizabeth,Bank Transfer,Cancelled,1,51.26
+ORD1144,CUST199,Male,59,Clothing,Phone,1,46.97,2023-10-28,Port Elizabeth,Cash,Cancelled,1,46.97
+ORD1145,CUST186,Other,26,Home,Doll,2,359.58,2023-12-09,Durban,PayPal,Delivered,3,719.16
+ORD1146,CUST184,Other,67,Beauty,Shirt,2,40.68,2023-11-28,Port Elizabeth,Credit Card,Pending,4,81.36
+ORD1147,CUST179,Other,44,Electronics,Pants,4,40.27,2023-03-17,Port Elizabeth,Debit Card,Pending,1,161.08
+ORD1148,CUST155,Male,19,Home,Puzzle,2,10.99,2023-06-23,Johannesburg,Credit Card,Delivered,3,21.98
+ORD1149,CUST180,Male,22,Toys,Phone,3,478.47,2023-02-16,Pretoria,PayPal,Returned,2,1435.41
+ORD1150,CUST194,Female,46,Books,Puzzle,2,370.07,2023-01-15,Durban,Cash,Cancelled,3,740.14
+ORD1151,CUST194,Male,54,Home,Shirt,2,179.86,2023-12-27,Johannesburg,PayPal,Returned,3,359.72
+ORD1152,CUST139,Other,55,Beauty,Laptop,2,151.79,2023-05-27,Pretoria,Debit Card,Pending,3,303.58
+ORD1153,CUST145,Other,36,Toys,Laptop,1,178.1,2023-01-26,Johannesburg,Bank Transfer,Pending,1,178.1
+ORD1154,CUST156,Male,25,Electronics,Phone,1,388.45,2023-11-04,Johannesburg,Credit Card,Returned,1,388.45
+ORD1155,CUST153,Other,65,Electronics,Perfume,3,332.38,2023-04-03,Port Elizabeth,Cash,Delivered,2,997.14
+ORD1156,CUST113,Other,62,Beauty,Shirt,3,96.67,2023-08-20,Pretoria,Bank Transfer,Returned,5,290.01
+ORD1157,CUST146,Male,18,Beauty,Shirt,1,91.18,2023-01-21,Durban,PayPal,Returned,5,91.18
+ORD1158,CUST119,Male,39,Books,Cookbook,3,53.71,2023-11-03,Durban,Cash,Cancelled,5,161.13
+ORD1159,CUST170,Other,69,Electronics,Perfume,1,331.85,2023-02-07,Pretoria,Bank Transfer,Cancelled,2,331.85
+ORD1160,CUST125,Other,34,Toys,Doll,4,383.36,2023-10-03,Port Elizabeth,Cash,Returned,5,1533.44
+ORD1161,CUST110,Other,24,Home,Doll,2,136.2,2023-06-06,Cape Town,Debit Card,Returned,5,272.4
+ORD1162,CUST119,Female,42,Toys,Pants,2,15.37,2023-06-28,Johannesburg,Debit Card,Pending,3,30.74
+ORD1163,CUST120,Female,62,Clothing,Novel,3,45.67,2023-05-12,Port Elizabeth,Credit Card,Cancelled,1,137.01
+ORD1164,CUST127,Female,21,Clothing,Laptop,1,484.09,2023-11-07,Pretoria,Credit Card,Cancelled,1,484.09
+ORD1165,CUST153,Male,53,Beauty,Doll,1,151.25,2023-12-14,Johannesburg,Debit Card,Pending,3,151.25
+ORD1166,CUST154,Female,23,Books,Perfume,3,385.77,2023-01-28,Durban,Cash,Delivered,3,1157.31
+ORD1167,CUST121,Male,48,Clothing,Shirt,1,314.21,2023-09-17,Cape Town,Debit Card,Cancelled,3,314.21
+ORD1168,CUST173,Male,36,Electronics,Doll,4,194.06,2023-03-17,Durban,Credit Card,Cancelled,1,776.24
+ORD1169,CUST187,Female,61,Toys,Shirt,2,106.82,2023-03-08,Pretoria,Debit Card,Delivered,5,213.64
+ORD1170,CUST183,Female,56,Toys,Doll,3,65.09,2023-12-08,Johannesburg,Debit Card,Cancelled,3,195.27
+ORD1171,CUST171,Female,44,Beauty,Laptop,3,309.43,2023-07-13,Pretoria,Cash,Cancelled,2,928.29
+ORD1172,CUST138,Other,27,Home,Puzzle,1,388.44,2023-06-11,Johannesburg,Bank Transfer,Delivered,3,388.44
+ORD1173,CUST194,Female,43,Beauty,Doll,3,323.73,2023-12-13,Port Elizabeth,Credit Card,Delivered,4,971.19
+ORD1174,CUST198,Other,36,Home,Perfume,4,267.5,2023-12-27,Cape Town,Cash,Returned,3,1070.0
+ORD1175,CUST176,Male,56,Beauty,Doll,1,25.77,2023-09-14,Port Elizabeth,Debit Card,Pending,1,25.77
+ORD1176,CUST188,Other,20,Beauty,Novel,1,484.4,2023-03-13,Port Elizabeth,Debit Card,Pending,3,484.4
+ORD1177,CUST128,Female,62,Beauty,Laptop,1,400.36,2023-03-28,Pretoria,Bank Transfer,Delivered,4,400.36
+ORD1178,CUST112,Male,30,Home,Perfume,1,149.95,2023-09-19,Cape Town,Credit Card,Delivered,2,149.95
+ORD1179,CUST111,Male,67,Home,Cookbook,4,490.09,2023-08-02,Johannesburg,Credit Card,Cancelled,5,1960.36
+ORD1180,CUST106,Male,45,Beauty,Perfume,1,302.93,2023-06-02,Johannesburg,PayPal,Returned,3,302.93
+ORD1181,CUST113,Other,37,Clothing,Novel,3,293.3,2023-07-29,Durban,Credit Card,Returned,4,879.9
+ORD1182,CUST122,Female,45,Books,Puzzle,4,375.3,2023-03-02,Johannesburg,Bank Transfer,Delivered,4,1501.2
+ORD1183,CUST178,Male,25,Books,Laptop,2,406.83,2023-09-25,Pretoria,PayPal,Cancelled,2,813.66
+ORD1184,CUST131,Male,58,Books,Cookbook,2,329.96,2023-09-19,Port Elizabeth,PayPal,Cancelled,1,659.92
+ORD1185,CUST170,Male,56,Home,Novel,3,68.41,2023-08-06,Port Elizabeth,Debit Card,Pending,3,205.23
+ORD1186,CUST107,Other,18,Home,Novel,3,172.44,2023-10-10,Port Elizabeth,Debit Card,Pending,4,517.32
+ORD1187,CUST173,Other,20,Clothing,Phone,4,464.4,2023-05-16,Cape Town,Credit Card,Cancelled,2,1857.6
+ORD1188,CUST150,Female,30,Books,Laptop,2,116.18,2023-12-28,Johannesburg,PayPal,Pending,5,232.36
+ORD1189,CUST108,Other,45,Books,Perfume,2,189.22,2023-04-03,Pretoria,Debit Card,Delivered,4,378.44
+ORD1190,CUST131,Male,66,Beauty,Shirt,2,218.88,2023-04-19,Cape Town,Bank Transfer,Cancelled,2,437.76
+ORD1191,CUST135,Female,42,Home,Puzzle,2,222.51,2023-08-29,Durban,Debit Card,Pending,1,445.02
+ORD1192,CUST173,Male,50,Books,Shirt,2,308.41,2023-12-21,Pretoria,Debit Card,Returned,1,616.82
+ORD1193,CUST107,Male,55,Toys,Perfume,1,471.82,2023-05-22,Pretoria,PayPal,Cancelled,4,471.82
+ORD1194,CUST183,Other,23,Clothing,Perfume,3,124.14,2023-10-18,Pretoria,PayPal,Cancelled,4,372.42
+ORD1195,CUST120,Female,61,Toys,Laptop,1,65.14,2023-08-25,Port Elizabeth,Cash,Returned,3,65.14
+ORD1196,CUST137,Other,62,Toys,Perfume,2,102.75,2023-12-06,Pretoria,Bank Transfer,Delivered,2,205.5
+ORD1197,CUST160,Other,49,Clothing,Phone,4,444.03,2023-11-08,Johannesburg,PayPal,Returned,4,1776.12
+ORD1198,CUST192,Female,62,Toys,Cookbook,4,324.68,2023-06-26,Pretoria,Credit Card,Cancelled,3,1298.72
+ORD1199,CUST191,Male,64,Books,Perfume,2,146.52,2023-05-21,Port Elizabeth,Bank Transfer,Delivered,3,293.04
+ORD1200,CUST121,Male,38,Home,Shirt,2,408.89,2023-07-08,Pretoria,Bank Transfer,Pending,4,817.78
+ORD1201,CUST117,Female,33,Clothing,Perfume,4,431.38,2023-02-18,Durban,PayPal,Pending,1,1725.52
+ORD1202,CUST170,Male,38,Beauty,Phone,1,424.02,2023-10-29,Durban,Bank Transfer,Pending,2,424.02
+ORD1203,CUST109,Female,28,Toys,Doll,1,459.87,2023-07-09,Port Elizabeth,PayPal,Cancelled,2,459.87
+ORD1204,CUST169,Female,54,Clothing,Doll,2,129.86,2023-05-16,Johannesburg,Debit Card,Returned,1,259.72
+ORD1205,CUST121,Other,53,Electronics,Novel,1,378.75,2023-02-12,Johannesburg,Cash,Delivered,4,378.75
+ORD1206,CUST199,Female,52,Electronics,Puzzle,4,232.97,2023-12-19,Cape Town,Debit Card,Pending,2,931.88
+ORD1207,CUST152,Other,36,Home,Pants,1,421.79,2023-03-31,Port Elizabeth,PayPal,Delivered,4,421.79
+ORD1208,CUST181,Male,37,Books,Cookbook,2,365.6,2023-10-22,Pretoria,PayPal,Cancelled,4,731.2
+ORD1209,CUST116,Male,35,Home,Blender,4,389.34,2023-12-07,Port Elizabeth,Debit Card,Pending,3,1557.36
+ORD1210,CUST116,Male,64,Home,Novel,1,329.8,2023-09-02,Cape Town,Credit Card,Cancelled,1,329.8
+ORD1211,CUST140,Male,58,Home,Puzzle,3,92.83,2023-07-11,Port Elizabeth,Credit Card,Returned,4,278.49
+ORD1212,CUST142,Other,66,Home,Doll,4,274.79,2023-11-14,Port Elizabeth,Credit Card,Cancelled,5,1099.16
+ORD1213,CUST125,Male,31,Beauty,Shirt,4,492.41,2023-04-16,Cape Town,PayPal,Cancelled,1,1969.64
+ORD1214,CUST119,Female,32,Beauty,Blender,3,469.01,2023-12-29,Johannesburg,Bank Transfer,Returned,2,1407.03
+ORD1215,CUST199,Female,48,Clothing,Puzzle,3,26.37,2023-11-06,Pretoria,PayPal,Delivered,3,79.11
+ORD1216,CUST164,Female,18,Electronics,Puzzle,4,86.58,2023-08-21,Cape Town,Bank Transfer,Returned,2,346.32
+ORD1217,CUST169,Other,20,Home,Novel,3,70.21,2023-09-22,Durban,Debit Card,Returned,2,210.63
+ORD1218,CUST180,Male,33,Clothing,Blender,2,364.36,2023-12-10,Johannesburg,Cash,Cancelled,1,728.72
+ORD1219,CUST104,Male,40,Electronics,Laptop,2,409.8,2023-02-06,Durban,Bank Transfer,Delivered,2,819.6
+ORD1220,CUST111,Male,28,Toys,Pants,2,110.69,2023-11-01,Johannesburg,Credit Card,Pending,4,221.38
+ORD1221,CUST164,Other,29,Books,Laptop,4,255.4,2023-02-10,Pretoria,PayPal,Returned,2,1021.6
+ORD1222,CUST112,Female,27,Beauty,Blender,3,421.15,2023-01-17,Pretoria,Debit Card,Delivered,3,1263.45
+ORD1223,CUST157,Female,49,Toys,Laptop,3,367.74,2023-12-10,Port Elizabeth,Credit Card,Returned,3,1103.22
+ORD1224,CUST134,Male,33,Electronics,Phone,1,273.41,2023-10-04,Durban,Debit Card,Returned,5,273.41
+ORD1225,CUST102,Female,25,Toys,Doll,1,297.22,2023-11-03,Johannesburg,Cash,Returned,3,297.22
+ORD1226,CUST156,Female,55,Books,Phone,3,256.64,2023-02-28,Pretoria,PayPal,Returned,2,769.92
+ORD1227,CUST178,Other,29,Electronics,Perfume,3,152.29,2023-07-02,Cape Town,PayPal,Cancelled,3,456.87
+ORD1228,CUST172,Other,41,Toys,Laptop,3,284.69,2023-02-10,Pretoria,Cash,Delivered,1,854.07
+ORD1229,CUST118,Other,45,Beauty,Perfume,4,346.0,2023-02-08,Cape Town,PayPal,Delivered,3,1384.0
+ORD1230,CUST109,Other,25,Beauty,Shirt,3,437.29,2023-07-11,Johannesburg,Bank Transfer,Delivered,4,1311.87
+ORD1231,CUST186,Male,45,Clothing,Cookbook,1,319.96,2023-09-24,Pretoria,Debit Card,Returned,1,319.96
+ORD1232,CUST135,Other,53,Toys,Shirt,4,381.76,2023-05-27,Pretoria,Credit Card,Cancelled,5,1527.04
+ORD1233,CUST173,Female,43,Home,Blender,3,84.24,2023-11-29,Johannesburg,Cash,Returned,4,252.72
+ORD1234,CUST147,Male,25,Toys,Puzzle,1,233.47,2023-05-07,Pretoria,Bank Transfer,Returned,2,233.47
+ORD1235,CUST143,Female,67,Electronics,Doll,4,9.62,2023-02-15,Cape Town,Credit Card,Delivered,2,38.48
+ORD1236,CUST122,Female,45,Electronics,Laptop,3,127.11,2023-02-14,Pretoria,Credit Card,Returned,2,381.33
+ORD1237,CUST123,Female,45,Toys,Novel,3,364.6,2023-01-01,Durban,Cash,Pending,4,1093.8
+ORD1238,CUST191,Other,54,Books,Cookbook,3,495.95,2023-06-17,Port Elizabeth,Bank Transfer,Returned,4,1487.85
+ORD1239,CUST153,Other,58,Beauty,Pants,4,54.09,2023-04-18,Cape Town,Credit Card,Pending,4,216.36
+ORD1240,CUST140,Male,53,Electronics,Pants,1,203.74,2023-01-19,Durban,Credit Card,Returned,1,203.74
+ORD1241,CUST143,Male,44,Beauty,Pants,1,401.04,2023-11-28,Johannesburg,Bank Transfer,Cancelled,1,401.04
+ORD1242,CUST196,Other,34,Electronics,Laptop,2,106.0,2023-03-13,Cape Town,PayPal,Cancelled,2,212.0
+ORD1243,CUST134,Female,26,Clothing,Pants,3,279.77,2023-04-19,Port Elizabeth,Credit Card,Delivered,3,839.31
+ORD1244,CUST186,Male,50,Home,Phone,2,367.87,2023-09-25,Port Elizabeth,Debit Card,Returned,2,735.74
+ORD1245,CUST198,Other,37,Electronics,Cookbook,2,309.91,2023-08-28,Johannesburg,Bank Transfer,Pending,5,619.82
+ORD1246,CUST135,Other,30,Beauty,Phone,1,98.07,2023-10-28,Johannesburg,Credit Card,Pending,1,98.07
+ORD1247,CUST126,Other,45,Clothing,Puzzle,4,180.92,2023-03-31,Cape Town,Cash,Returned,4,723.68
+ORD1248,CUST184,Female,65,Electronics,Cookbook,4,392.98,2023-04-13,Pretoria,Debit Card,Pending,1,1571.92
+ORD1249,CUST149,Other,46,Books,Phone,1,279.34,2023-09-07,Johannesburg,Credit Card,Cancelled,4,279.34
+ORD1250,CUST158,Other,30,Home,Cookbook,4,7.59,2023-01-08,Pretoria,Debit Card,Pending,5,30.36
+ORD1251,CUST116,Other,63,Electronics,Puzzle,2,381.69,2023-06-02,Durban,Debit Card,Delivered,5,763.38
+ORD1252,CUST155,Other,52,Clothing,Perfume,3,22.48,2023-12-13,Port Elizabeth,PayPal,Cancelled,1,67.44
+ORD1253,CUST195,Male,23,Books,Laptop,1,374.14,2023-06-23,Pretoria,Debit Card,Cancelled,4,374.14
+ORD1254,CUST157,Male,35,Toys,Laptop,3,105.23,2023-12-09,Port Elizabeth,PayPal,Cancelled,5,315.69
+ORD1255,CUST154,Other,68,Clothing,Pants,4,479.25,2023-06-07,Pretoria,Bank Transfer,Returned,2,1917.0
+ORD1256,CUST188,Female,22,Clothing,Shirt,3,187.13,2023-08-03,Durban,PayPal,Returned,2,561.39
+ORD1257,CUST140,Male,64,Books,Pants,4,166.83,2023-06-26,Johannesburg,Cash,Cancelled,4,667.32
+ORD1258,CUST181,Other,42,Clothing,Blender,4,78.7,2023-06-24,Durban,Credit Card,Returned,1,314.8
+ORD1259,CUST188,Male,19,Books,Phone,2,156.27,2023-12-06,Johannesburg,Bank Transfer,Pending,5,312.54
+ORD1260,CUST104,Male,27,Electronics,Cookbook,4,438.94,2023-12-04,Johannesburg,Bank Transfer,Returned,1,1755.76
+ORD1261,CUST146,Female,47,Books,Shirt,2,498.19,2023-05-26,Port Elizabeth,Cash,Returned,2,996.38
+ORD1262,CUST100,Other,67,Books,Puzzle,2,187.31,2023-11-20,Durban,PayPal,Cancelled,5,374.62
+ORD1263,CUST125,Other,62,Home,Blender,2,227.06,2023-06-10,Pretoria,Credit Card,Delivered,1,454.12
+ORD1264,CUST105,Female,22,Books,Puzzle,1,362.43,2023-05-07,Durban,PayPal,Delivered,3,362.43
+ORD1265,CUST131,Female,50,Books,Laptop,1,443.67,2023-03-23,Port Elizabeth,Debit Card,Delivered,4,443.67
+ORD1266,CUST130,Other,18,Toys,Laptop,4,298.56,2023-05-27,Johannesburg,PayPal,Pending,4,1194.24
+ORD1267,CUST188,Other,35,Electronics,Pants,2,198.81,2023-08-27,Port Elizabeth,Bank Transfer,Returned,3,397.62
+ORD1268,CUST112,Female,49,Home,Phone,1,209.25,2023-03-25,Cape Town,Credit Card,Delivered,2,209.25
+ORD1269,CUST106,Male,64,Toys,Shirt,2,349.33,2023-04-23,Cape Town,PayPal,Cancelled,5,698.66
+ORD1270,CUST120,Male,66,Beauty,Doll,3,6.59,2023-08-13,Pretoria,Credit Card,Delivered,4,19.77
+ORD1271,CUST170,Female,28,Electronics,Blender,3,311.7,2023-11-28,Port Elizabeth,Credit Card,Delivered,3,935.1
+ORD1272,CUST177,Male,38,Electronics,Blender,3,180.97,2023-08-31,Pretoria,Debit Card,Returned,3,542.91
+ORD1273,CUST169,Female,43,Beauty,Pants,4,398.13,2023-05-23,Pretoria,Debit Card,Returned,2,1592.52
+ORD1274,CUST132,Male,42,Books,Laptop,2,51.03,2023-02-10,Cape Town,Bank Transfer,Returned,2,102.06
+ORD1275,CUST188,Male,39,Toys,Pants,3,296.16,2023-09-15,Pretoria,Cash,Pending,1,888.48
+ORD1276,CUST112,Other,44,Clothing,Cookbook,1,243.08,2023-10-12,Cape Town,Credit Card,Pending,4,243.08
+ORD1277,CUST100,Other,66,Home,Shirt,3,322.95,2023-04-15,Johannesburg,Cash,Delivered,1,968.85
+ORD1278,CUST102,Male,30,Clothing,Phone,3,37.1,2023-07-21,Port Elizabeth,Bank Transfer,Returned,3,111.3
+ORD1279,CUST181,Male,50,Beauty,Perfume,3,292.09,2023-11-03,Pretoria,Credit Card,Delivered,5,876.27
+ORD1280,CUST120,Other,51,Electronics,Novel,4,282.93,2023-11-27,Cape Town,Credit Card,Cancelled,5,1131.72
+ORD1281,CUST176,Other,58,Electronics,Novel,1,282.53,2023-09-23,Durban,Cash,Cancelled,2,282.53
+ORD1282,CUST152,Other,52,Home,Pants,2,303.73,2023-07-29,Pretoria,PayPal,Returned,5,607.46
+ORD1283,CUST196,Female,18,Electronics,Cookbook,1,339.85,2023-02-20,Johannesburg,Debit Card,Returned,5,339.85
+ORD1284,CUST163,Male,38,Electronics,Shirt,2,403.47,2023-04-28,Johannesburg,PayPal,Cancelled,5,806.94
+ORD1285,CUST145,Other,65,Home,Doll,4,138.56,2023-07-20,Durban,Cash,Returned,3,554.24
+ORD1286,CUST128,Male,23,Toys,Novel,4,413.4,2023-02-08,Cape Town,Debit Card,Pending,5,1653.6
+ORD1287,CUST149,Female,45,Toys,Shirt,4,251.64,2023-01-28,Pretoria,PayPal,Pending,5,1006.56
+ORD1288,CUST140,Female,34,Home,Phone,4,43.14,2023-09-16,Cape Town,Debit Card,Returned,5,172.56
+ORD1289,CUST154,Other,22,Beauty,Puzzle,2,33.98,2023-03-25,Johannesburg,Credit Card,Cancelled,1,67.96
+ORD1290,CUST106,Female,48,Electronics,Cookbook,3,170.45,2023-06-04,Cape Town,PayPal,Delivered,3,511.35
+ORD1291,CUST159,Male,22,Electronics,Laptop,2,393.52,2023-04-27,Johannesburg,Debit Card,Returned,2,787.04
+ORD1292,CUST190,Other,55,Beauty,Shirt,1,355.3,2023-01-02,Cape Town,Debit Card,Returned,1,355.3
+ORD1293,CUST160,Male,20,Toys,Phone,4,395.36,2023-04-03,Durban,Debit Card,Delivered,4,1581.44
+ORD1294,CUST106,Male,40,Books,Doll,4,261.05,2023-06-15,Port Elizabeth,PayPal,Returned,3,1044.2
+ORD1295,CUST112,Female,54,Books,Perfume,1,222.9,2023-12-16,Durban,Bank Transfer,Delivered,3,222.9
+ORD1296,CUST125,Female,54,Books,Laptop,2,77.99,2023-10-23,Durban,PayPal,Cancelled,4,155.98
+ORD1297,CUST138,Female,27,Toys,Perfume,3,167.46,2023-09-15,Port Elizabeth,Cash,Pending,4,502.38
+ORD1298,CUST187,Female,27,Toys,Doll,3,219.84,2023-03-22,Port Elizabeth,PayPal,Cancelled,4,659.52
+ORD1299,CUST152,Female,36,Beauty,Phone,1,48.86,2023-09-25,Pretoria,Debit Card,Pending,2,48.86
+ORD1300,CUST153,Other,34,Electronics,Novel,3,114.2,2023-08-23,Pretoria,Credit Card,Delivered,5,342.6
+ORD1301,CUST108,Male,38,Beauty,Perfume,2,301.12,2023-11-17,Durban,PayPal,Pending,3,602.24
+ORD1302,CUST118,Male,31,Beauty,Laptop,2,369.15,2023-11-07,Durban,PayPal,Cancelled,5,738.3
+ORD1303,CUST116,Male,26,Toys,Pants,1,499.18,2023-10-28,Johannesburg,Debit Card,Pending,5,499.18
+ORD1304,CUST100,Male,63,Books,Blender,2,466.89,2023-12-23,Johannesburg,Credit Card,Delivered,4,933.78
+ORD1305,CUST102,Female,18,Clothing,Shirt,4,323.07,2023-08-01,Pretoria,Credit Card,Pending,2,1292.28
+ORD1306,CUST181,Male,68,Electronics,Novel,1,213.52,2023-03-03,Pretoria,Cash,Returned,1,213.52
+ORD1307,CUST134,Other,62,Toys,Perfume,2,319.91,2023-02-18,Johannesburg,PayPal,Cancelled,2,639.82
+ORD1308,CUST153,Other,30,Books,Puzzle,1,393.9,2023-05-07,Johannesburg,Credit Card,Returned,5,393.9
+ORD1309,CUST164,Male,21,Clothing,Shirt,3,63.58,2023-08-11,Cape Town,Credit Card,Delivered,2,190.74
+ORD1310,CUST185,Male,18,Clothing,Pants,2,207.9,2023-10-06,Cape Town,Bank Transfer,Pending,4,415.8
+ORD1311,CUST124,Other,66,Toys,Doll,4,420.7,2023-10-21,Johannesburg,Bank Transfer,Returned,1,1682.8
+ORD1312,CUST109,Other,57,Home,Blender,2,195.0,2023-10-11,Cape Town,Credit Card,Returned,4,390.0
+ORD1313,CUST101,Female,49,Electronics,Phone,1,288.08,2023-10-04,Port Elizabeth,Cash,Pending,1,288.08
+ORD1314,CUST154,Other,51,Clothing,Pants,1,295.95,2023-04-17,Pretoria,Credit Card,Pending,5,295.95
+ORD1315,CUST169,Female,45,Toys,Pants,2,96.32,2023-05-26,Pretoria,Debit Card,Cancelled,1,192.64
+ORD1316,CUST130,Female,48,Toys,Doll,4,184.31,2023-04-09,Johannesburg,PayPal,Returned,1,737.24
+ORD1317,CUST123,Female,25,Books,Cookbook,4,170.58,2023-03-14,Durban,Cash,Returned,1,682.32
+ORD1318,CUST166,Female,56,Home,Doll,4,17.97,2023-05-02,Johannesburg,Debit Card,Delivered,2,71.88
+ORD1319,CUST136,Female,43,Electronics,Cookbook,1,16.97,2023-01-30,Cape Town,Cash,Cancelled,2,16.97
+ORD1320,CUST139,Male,51,Beauty,Cookbook,2,416.69,2023-07-07,Durban,Debit Card,Delivered,5,833.38
+ORD1321,CUST156,Other,20,Books,Novel,3,140.17,2023-12-30,Cape Town,PayPal,Returned,1,420.51
+ORD1322,CUST170,Female,67,Clothing,Novel,1,261.45,2023-12-20,Port Elizabeth,PayPal,Delivered,3,261.45
+ORD1323,CUST186,Other,29,Clothing,Laptop,4,152.87,2023-10-15,Cape Town,Bank Transfer,Returned,5,611.48
+ORD1324,CUST139,Other,18,Books,Perfume,2,470.64,2023-07-14,Port Elizabeth,Debit Card,Returned,1,941.28
+ORD1325,CUST127,Female,61,Toys,Perfume,4,133.35,2023-06-05,Port Elizabeth,Bank Transfer,Delivered,1,533.4
+ORD1326,CUST196,Male,22,Clothing,Phone,3,217.68,2023-06-21,Cape Town,Debit Card,Delivered,2,653.04
+ORD1327,CUST176,Female,47,Home,Perfume,4,437.0,2023-12-01,Cape Town,Bank Transfer,Pending,5,1748.0
+ORD1328,CUST197,Male,47,Electronics,Novel,4,421.76,2023-02-10,Port Elizabeth,PayPal,Pending,1,1687.04
+ORD1329,CUST116,Other,34,Home,Laptop,3,97.12,2023-03-04,Durban,Cash,Pending,1,291.36
+ORD1330,CUST132,Male,65,Clothing,Laptop,2,402.31,2023-01-23,Port Elizabeth,Bank Transfer,Returned,5,804.62
+ORD1331,CUST184,Male,64,Beauty,Cookbook,1,231.8,2023-12-26,Pretoria,Debit Card,Delivered,3,231.8
+ORD1332,CUST167,Male,40,Electronics,Doll,2,244.07,2023-03-16,Port Elizabeth,Debit Card,Cancelled,5,488.14
+ORD1333,CUST103,Other,32,Electronics,Phone,3,71.07,2023-02-17,Durban,PayPal,Returned,5,213.21
+ORD1334,CUST150,Other,54,Books,Cookbook,4,44.9,2023-06-09,Pretoria,Debit Card,Cancelled,3,179.6
+ORD1335,CUST148,Male,38,Books,Doll,2,365.33,2023-11-09,Johannesburg,Credit Card,Delivered,5,730.66
+ORD1336,CUST169,Male,31,Beauty,Perfume,1,250.75,2023-04-28,Johannesburg,Cash,Returned,1,250.75
+ORD1337,CUST157,Female,19,Toys,Cookbook,3,221.24,2023-04-10,Durban,Bank Transfer,Cancelled,5,663.72
+ORD1338,CUST197,Male,28,Electronics,Shirt,2,366.11,2023-06-16,Port Elizabeth,Cash,Cancelled,3,732.22
+ORD1339,CUST131,Female,68,Beauty,Perfume,1,383.93,2023-10-17,Cape Town,PayPal,Pending,4,383.93
+ORD1340,CUST158,Male,56,Books,Doll,3,83.66,2023-06-05,Durban,Bank Transfer,Pending,5,250.98
+ORD1341,CUST186,Female,55,Books,Phone,1,307.06,2023-01-07,Pretoria,Bank Transfer,Pending,2,307.06
+ORD1342,CUST101,Other,51,Electronics,Doll,3,72.0,2023-07-15,Pretoria,Credit Card,Returned,1,216.0
+ORD1343,CUST130,Male,55,Home,Cookbook,4,376.93,2023-02-25,Johannesburg,PayPal,Delivered,1,1507.72
+ORD1344,CUST103,Male,67,Clothing,Cookbook,2,330.19,2023-11-17,Pretoria,Debit Card,Delivered,2,660.38
+ORD1345,CUST171,Male,51,Books,Pants,1,478.52,2023-07-12,Durban,Credit Card,Pending,2,478.52
+ORD1346,CUST117,Male,35,Toys,Phone,3,39.13,2023-02-16,Pretoria,Credit Card,Pending,5,117.39
+ORD1347,CUST199,Female,47,Toys,Puzzle,1,33.24,2023-05-28,Durban,Cash,Pending,2,33.24
+ORD1348,CUST119,Male,32,Books,Perfume,1,144.68,2023-10-02,Cape Town,Cash,Cancelled,4,144.68
+ORD1349,CUST129,Other,44,Home,Laptop,2,134.54,2023-06-06,Johannesburg,Cash,Pending,3,269.08
+ORD1350,CUST130,Other,68,Home,Phone,4,127.25,2023-07-21,Pretoria,Credit Card,Cancelled,2,509.0
+ORD1351,CUST195,Male,51,Beauty,Laptop,1,453.6,2023-05-06,Durban,Debit Card,Delivered,2,453.6
+ORD1352,CUST156,Other,69,Toys,Phone,3,128.53,2023-11-01,Port Elizabeth,Bank Transfer,Returned,4,385.59
+ORD1353,CUST174,Male,55,Beauty,Phone,3,139.62,2023-10-21,Johannesburg,Cash,Returned,1,418.86
+ORD1354,CUST127,Male,50,Toys,Doll,4,380.9,2023-03-05,Cape Town,Debit Card,Returned,1,1523.6
+ORD1355,CUST109,Other,41,Clothing,Phone,3,227.62,2023-11-21,Durban,PayPal,Returned,5,682.86
+ORD1356,CUST154,Male,32,Clothing,Pants,4,389.47,2023-06-25,Cape Town,Cash,Cancelled,4,1557.88
+ORD1357,CUST169,Other,47,Electronics,Puzzle,3,37.36,2023-04-26,Cape Town,Bank Transfer,Cancelled,3,112.08
+ORD1358,CUST123,Female,59,Beauty,Cookbook,2,246.35,2023-07-23,Pretoria,PayPal,Pending,3,492.7
+ORD1359,CUST104,Male,68,Books,Blender,1,21.64,2023-11-17,Pretoria,PayPal,Cancelled,4,21.64
+ORD1360,CUST163,Female,34,Beauty,Laptop,2,36.01,2023-01-31,Durban,Bank Transfer,Pending,3,72.02
+ORD1361,CUST102,Other,22,Books,Cookbook,1,453.69,2023-04-23,Port Elizabeth,Cash,Pending,1,453.69
+ORD1362,CUST183,Female,46,Home,Blender,1,73.93,2023-12-31,Durban,Credit Card,Returned,3,73.93
+ORD1363,CUST181,Female,21,Beauty,Puzzle,1,268.55,2023-11-21,Port Elizabeth,Bank Transfer,Cancelled,3,268.55
+ORD1364,CUST106,Other,27,Home,Puzzle,2,208.49,2023-12-10,Cape Town,Bank Transfer,Cancelled,4,416.98
+ORD1365,CUST102,Female,34,Clothing,Laptop,1,176.93,2023-03-08,Johannesburg,Bank Transfer,Pending,4,176.93
+ORD1366,CUST172,Female,27,Clothing,Laptop,2,450.42,2023-03-16,Durban,PayPal,Pending,3,900.84
+ORD1367,CUST135,Other,34,Electronics,Puzzle,4,15.8,2023-02-14,Durban,Debit Card,Delivered,2,63.2
+ORD1368,CUST133,Female,37,Beauty,Blender,3,333.58,2023-09-17,Port Elizabeth,Credit Card,Delivered,4,1000.74
+ORD1369,CUST113,Other,41,Home,Phone,3,481.88,2023-06-03,Cape Town,Cash,Pending,5,1445.64
+ORD1370,CUST107,Female,22,Books,Perfume,1,282.28,2023-06-04,Cape Town,Cash,Delivered,5,282.28
+ORD1371,CUST154,Other,51,Clothing,Shirt,2,468.73,2023-12-29,Port Elizabeth,Debit Card,Delivered,1,937.46
+ORD1372,CUST113,Other,23,Clothing,Cookbook,3,30.87,2023-08-22,Cape Town,Bank Transfer,Pending,3,92.61
+ORD1373,CUST127,Female,19,Books,Doll,2,212.3,2023-02-20,Pretoria,Credit Card,Pending,2,424.6
+ORD1374,CUST102,Female,30,Home,Cookbook,2,133.78,2023-11-02,Johannesburg,Cash,Cancelled,1,267.56
+ORD1375,CUST111,Female,60,Home,Doll,1,366.76,2023-09-19,Durban,Cash,Pending,3,366.76
+ORD1376,CUST147,Male,60,Beauty,Blender,3,490.74,2023-11-11,Johannesburg,Bank Transfer,Pending,4,1472.22
+ORD1377,CUST153,Male,65,Beauty,Doll,1,131.98,2023-05-05,Durban,Debit Card,Returned,5,131.98
+ORD1378,CUST144,Male,28,Toys,Laptop,1,328.82,2023-09-02,Pretoria,Credit Card,Cancelled,2,328.82
+ORD1379,CUST172,Other,68,Toys,Perfume,3,103.06,2023-01-30,Cape Town,Debit Card,Cancelled,5,309.18
+ORD1380,CUST126,Female,64,Electronics,Perfume,3,284.84,2023-05-02,Port Elizabeth,Debit Card,Cancelled,4,854.52
+ORD1381,CUST160,Other,40,Clothing,Laptop,4,234.65,2023-05-05,Pretoria,Credit Card,Returned,3,938.6
+ORD1382,CUST104,Male,33,Beauty,Pants,4,486.14,2023-02-06,Johannesburg,Credit Card,Pending,4,1944.56
+ORD1383,CUST163,Female,48,Home,Blender,2,306.22,2023-06-19,Port Elizabeth,Cash,Cancelled,4,612.44
+ORD1384,CUST126,Other,28,Books,Pants,3,178.01,2023-05-04,Cape Town,Cash,Cancelled,5,534.03
+ORD1385,CUST148,Female,33,Home,Pants,4,61.48,2023-12-23,Pretoria,Credit Card,Delivered,2,245.92
+ORD1386,CUST157,Other,25,Clothing,Cookbook,2,79.87,2023-02-04,Port Elizabeth,PayPal,Cancelled,4,159.74
+ORD1387,CUST186,Female,21,Toys,Puzzle,2,116.53,2023-03-28,Pretoria,Cash,Pending,5,233.06
+ORD1388,CUST123,Male,57,Home,Cookbook,2,129.23,2023-05-14,Pretoria,PayPal,Pending,2,258.46
+ORD1389,CUST102,Male,21,Electronics,Puzzle,4,426.05,2023-07-15,Cape Town,Credit Card,Delivered,3,1704.2
+ORD1390,CUST160,Female,42,Clothing,Shirt,3,282.81,2023-10-01,Durban,Cash,Cancelled,3,848.43
+ORD1391,CUST179,Other,20,Toys,Doll,1,264.08,2023-07-20,Port Elizabeth,Debit Card,Cancelled,1,264.08
+ORD1392,CUST135,Male,49,Books,Puzzle,2,61.81,2023-10-12,Cape Town,Credit Card,Cancelled,5,123.62
+ORD1393,CUST191,Male,20,Toys,Laptop,4,430.77,2023-03-18,Pretoria,Bank Transfer,Returned,2,1723.08
+ORD1394,CUST130,Male,44,Electronics,Cookbook,4,362.79,2023-02-28,Cape Town,PayPal,Cancelled,4,1451.16
+ORD1395,CUST186,Female,46,Clothing,Blender,1,38.5,2023-05-06,Durban,Credit Card,Pending,3,38.5
+ORD1396,CUST193,Female,49,Books,Doll,1,355.38,2023-04-19,Port Elizabeth,Credit Card,Pending,2,355.38
+ORD1397,CUST144,Other,67,Electronics,Shirt,4,274.05,2023-08-12,Durban,Cash,Returned,5,1096.2
+ORD1398,CUST112,Other,68,Toys,Puzzle,3,45.45,2023-10-05,Johannesburg,Cash,Returned,1,136.35
+ORD1399,CUST114,Other,36,Electronics,Shirt,1,231.86,2023-03-09,Port Elizabeth,Cash,Cancelled,3,231.86
+ORD1400,CUST185,Female,38,Clothing,Blender,4,244.92,2023-03-10,Durban,Bank Transfer,Delivered,2,979.68
+ORD1401,CUST164,Female,22,Beauty,Pants,1,87.06,2023-06-14,Pretoria,Cash,Returned,2,87.06
+ORD1402,CUST197,Other,35,Electronics,Perfume,3,473.12,2023-11-01,Port Elizabeth,Credit Card,Returned,2,1419.36
+ORD1403,CUST125,Other,45,Electronics,Blender,2,425.74,2023-06-11,Port Elizabeth,Cash,Cancelled,5,851.48
+ORD1404,CUST103,Female,59,Toys,Novel,1,336.17,2023-12-31,Cape Town,Debit Card,Cancelled,5,336.17
+ORD1405,CUST108,Other,39,Toys,Blender,3,233.84,2023-12-08,Pretoria,Cash,Returned,5,701.52
+ORD1406,CUST157,Male,38,Books,Shirt,4,208.82,2023-11-05,Johannesburg,Bank Transfer,Delivered,4,835.28
+ORD1407,CUST184,Female,23,Toys,Laptop,1,327.23,2023-12-09,Durban,Debit Card,Returned,2,327.23
+ORD1408,CUST174,Other,18,Home,Cookbook,1,274.99,2023-02-11,Cape Town,Credit Card,Cancelled,3,274.99
+ORD1409,CUST180,Female,22,Clothing,Laptop,4,35.83,2023-12-20,Durban,Credit Card,Cancelled,5,143.32
+ORD1410,CUST169,Male,58,Clothing,Shirt,2,258.69,2023-04-19,Johannesburg,PayPal,Returned,5,517.38
+ORD1411,CUST102,Female,29,Beauty,Cookbook,4,404.17,2023-02-20,Johannesburg,Debit Card,Delivered,2,1616.68
+ORD1412,CUST145,Female,43,Beauty,Novel,1,232.32,2023-09-07,Port Elizabeth,PayPal,Returned,5,232.32
+ORD1413,CUST176,Female,63,Clothing,Perfume,4,30.72,2023-12-07,Johannesburg,Debit Card,Returned,4,122.88
+ORD1414,CUST111,Female,51,Beauty,Doll,3,394.21,2023-01-21,Durban,Debit Card,Cancelled,4,1182.63
+ORD1415,CUST175,Male,66,Books,Shirt,4,104.68,2023-10-27,Pretoria,Bank Transfer,Delivered,5,418.72
+ORD1416,CUST103,Female,31,Toys,Puzzle,1,133.02,2023-05-19,Pretoria,PayPal,Pending,2,133.02
+ORD1417,CUST190,Female,43,Clothing,Shirt,4,86.53,2023-12-25,Port Elizabeth,Bank Transfer,Delivered,2,346.12
+ORD1418,CUST106,Other,62,Beauty,Shirt,2,168.46,2023-11-20,Durban,Debit Card,Returned,2,336.92
+ORD1419,CUST184,Female,44,Clothing,Cookbook,4,379.59,2023-04-02,Durban,Credit Card,Returned,1,1518.36
+ORD1420,CUST105,Other,26,Home,Phone,2,262.1,2023-10-07,Johannesburg,Debit Card,Returned,5,524.2
+ORD1421,CUST127,Male,43,Electronics,Blender,3,106.42,2023-05-05,Durban,Bank Transfer,Delivered,2,319.26
+ORD1422,CUST138,Male,64,Toys,Phone,2,439.53,2023-04-21,Cape Town,PayPal,Cancelled,4,879.06
+ORD1423,CUST123,Male,39,Clothing,Novel,4,440.39,2023-12-20,Johannesburg,PayPal,Returned,3,1761.56
+ORD1424,CUST139,Male,64,Electronics,Puzzle,1,435.94,2023-05-19,Cape Town,Bank Transfer,Returned,3,435.94
+ORD1425,CUST163,Other,47,Beauty,Perfume,2,123.2,2023-09-30,Port Elizabeth,PayPal,Delivered,2,246.4
+ORD1426,CUST128,Female,60,Electronics,Pants,3,228.36,2023-04-09,Pretoria,Cash,Pending,3,685.08
+ORD1427,CUST154,Male,65,Toys,Novel,2,492.57,2023-09-09,Port Elizabeth,Credit Card,Pending,3,985.14
+ORD1428,CUST197,Female,34,Clothing,Pants,2,387.15,2023-12-04,Pretoria,Credit Card,Cancelled,1,774.3
+ORD1429,CUST160,Other,43,Home,Pants,2,18.45,2023-04-14,Port Elizabeth,Credit Card,Cancelled,4,36.9
+ORD1430,CUST193,Other,53,Beauty,Perfume,3,37.28,2023-08-02,Durban,PayPal,Returned,4,111.84
+ORD1431,CUST136,Other,18,Clothing,Laptop,4,234.65,2023-09-06,Cape Town,PayPal,Delivered,1,938.6
+ORD1432,CUST126,Male,25,Toys,Phone,2,455.06,2023-06-01,Pretoria,Debit Card,Returned,1,910.12
+ORD1433,CUST184,Female,66,Beauty,Shirt,2,271.66,2023-09-07,Johannesburg,Debit Card,Cancelled,3,543.32
+ORD1434,CUST126,Female,52,Books,Doll,1,251.42,2023-10-02,Cape Town,Credit Card,Delivered,5,251.42
+ORD1435,CUST109,Female,69,Electronics,Pants,3,57.21,2023-06-14,Johannesburg,Cash,Delivered,3,171.63
+ORD1436,CUST160,Other,32,Toys,Puzzle,2,330.11,2023-12-07,Cape Town,Debit Card,Cancelled,1,660.22
+ORD1437,CUST185,Male,64,Books,Novel,3,411.94,2023-01-08,Cape Town,Debit Card,Pending,4,1235.82
+ORD1438,CUST197,Other,39,Clothing,Laptop,2,193.31,2023-10-11,Port Elizabeth,PayPal,Pending,3,386.62
+ORD1439,CUST189,Other,31,Home,Pants,4,388.93,2023-01-05,Pretoria,Cash,Delivered,5,1555.72
+ORD1440,CUST123,Female,43,Beauty,Laptop,4,482.42,2023-05-25,Pretoria,Credit Card,Returned,3,1929.68
+ORD1441,CUST181,Other,45,Electronics,Laptop,2,105.86,2023-04-11,Cape Town,Debit Card,Pending,2,211.72
+ORD1442,CUST142,Female,40,Beauty,Pants,4,264.05,2023-06-13,Durban,Cash,Returned,3,1056.2
+ORD1443,CUST194,Male,31,Clothing,Cookbook,2,147.13,2023-05-27,Durban,Cash,Pending,1,294.26
+ORD1444,CUST131,Female,41,Beauty,Blender,4,397.46,2023-03-05,Johannesburg,Credit Card,Pending,4,1589.84
+ORD1445,CUST170,Male,19,Electronics,Puzzle,1,290.91,2023-04-01,Johannesburg,Cash,Returned,4,290.91
+ORD1446,CUST165,Female,62,Clothing,Shirt,1,319.12,2023-04-27,Port Elizabeth,Cash,Cancelled,1,319.12
+ORD1447,CUST100,Other,43,Beauty,Shirt,1,399.97,2023-12-20,Cape Town,Cash,Pending,2,399.97
+ORD1448,CUST185,Other,31,Home,Puzzle,3,201.01,2023-09-24,Johannesburg,Debit Card,Pending,1,603.03
+ORD1449,CUST166,Male,68,Toys,Cookbook,3,457.97,2023-11-06,Johannesburg,Credit Card,Returned,3,1373.91
+ORD1450,CUST165,Male,24,Clothing,Shirt,1,268.85,2023-06-22,Cape Town,Cash,Cancelled,1,268.85
+ORD1451,CUST157,Male,20,Toys,Laptop,3,83.19,2023-02-16,Port Elizabeth,Cash,Pending,1,249.57
+ORD1452,CUST191,Female,64,Clothing,Perfume,4,349.47,2023-05-20,Johannesburg,Debit Card,Pending,2,1397.88
+ORD1453,CUST103,Female,40,Home,Novel,2,397.66,2023-09-03,Port Elizabeth,Credit Card,Cancelled,3,795.32
+ORD1454,CUST123,Male,63,Toys,Phone,2,161.8,2023-05-29,Pretoria,PayPal,Pending,5,323.6
+ORD1455,CUST165,Other,60,Books,Shirt,2,429.3,2023-09-03,Port Elizabeth,Debit Card,Cancelled,5,858.6
+ORD1456,CUST131,Female,64,Electronics,Puzzle,1,453.54,2023-01-05,Durban,Credit Card,Cancelled,4,453.54
+ORD1457,CUST167,Female,62,Books,Perfume,3,142.07,2023-07-03,Durban,Cash,Returned,1,426.21
+ORD1458,CUST129,Female,35,Beauty,Pants,4,491.84,2023-01-20,Port Elizabeth,Credit Card,Delivered,4,1967.36
+ORD1459,CUST161,Male,55,Home,Blender,4,74.65,2023-02-15,Durban,Credit Card,Cancelled,2,298.6
+ORD1460,CUST101,Male,52,Books,Puzzle,1,105.0,2023-01-12,Pretoria,Credit Card,Returned,5,105.0
+ORD1461,CUST100,Male,68,Clothing,Laptop,4,96.19,2023-03-11,Cape Town,PayPal,Delivered,1,384.76
+ORD1462,CUST141,Male,32,Beauty,Blender,4,447.52,2023-01-17,Durban,Credit Card,Pending,2,1790.08
+ORD1463,CUST153,Male,42,Beauty,Novel,4,328.87,2023-05-27,Durban,PayPal,Delivered,2,1315.48
+ORD1464,CUST150,Other,54,Books,Novel,4,80.29,2023-06-03,Port Elizabeth,Cash,Cancelled,1,321.16
+ORD1465,CUST133,Other,45,Books,Cookbook,3,222.96,2023-10-31,Pretoria,PayPal,Cancelled,2,668.88
+ORD1466,CUST145,Male,27,Home,Doll,4,309.57,2023-04-18,Cape Town,Cash,Cancelled,1,1238.28
+ORD1467,CUST154,Female,56,Electronics,Cookbook,2,46.31,2023-08-24,Port Elizabeth,Cash,Cancelled,1,92.62
+ORD1468,CUST130,Male,34,Books,Perfume,1,441.8,2023-11-04,Port Elizabeth,PayPal,Cancelled,3,441.8
+ORD1469,CUST189,Other,56,Books,Blender,3,402.78,2023-12-18,Pretoria,Debit Card,Returned,4,1208.34
+ORD1470,CUST138,Other,39,Toys,Doll,4,255.08,2023-03-11,Cape Town,Bank Transfer,Cancelled,2,1020.32
+ORD1471,CUST113,Female,43,Clothing,Pants,3,483.73,2023-07-02,Pretoria,Credit Card,Returned,2,1451.19
+ORD1472,CUST132,Other,61,Toys,Laptop,4,211.79,2023-09-07,Cape Town,Bank Transfer,Pending,3,847.16
+ORD1473,CUST132,Male,42,Toys,Blender,2,492.13,2023-08-16,Pretoria,Credit Card,Cancelled,3,984.26
+ORD1474,CUST127,Female,34,Beauty,Cookbook,1,335.62,2023-04-12,Port Elizabeth,Credit Card,Cancelled,3,335.62
+ORD1475,CUST164,Male,30,Electronics,Phone,4,319.16,2023-03-16,Port Elizabeth,Cash,Delivered,5,1276.64
+ORD1476,CUST127,Male,37,Clothing,Doll,4,87.15,2023-08-04,Johannesburg,Credit Card,Pending,5,348.6
+ORD1477,CUST161,Female,42,Home,Doll,4,441.55,2023-07-22,Durban,Credit Card,Cancelled,5,1766.2
+ORD1478,CUST170,Male,21,Home,Laptop,4,216.61,2023-07-11,Pretoria,PayPal,Cancelled,1,866.44
+ORD1479,CUST180,Other,27,Books,Shirt,1,85.31,2023-09-06,Johannesburg,Bank Transfer,Pending,2,85.31
+ORD1480,CUST186,Male,20,Books,Novel,1,11.24,2023-08-30,Durban,PayPal,Returned,4,11.24
+ORD1481,CUST163,Female,58,Home,Novel,2,282.08,2023-06-28,Pretoria,Credit Card,Cancelled,1,564.16
+ORD1482,CUST150,Female,62,Books,Phone,1,266.06,2023-08-07,Cape Town,Cash,Delivered,2,266.06
+ORD1483,CUST199,Female,35,Electronics,Perfume,4,361.08,2023-03-23,Durban,PayPal,Cancelled,2,1444.32
+ORD1484,CUST141,Male,64,Toys,Perfume,2,445.68,2023-04-02,Port Elizabeth,PayPal,Delivered,3,891.36
+ORD1485,CUST157,Female,53,Books,Pants,2,44.31,2023-06-24,Johannesburg,Debit Card,Delivered,3,88.62
+ORD1486,CUST160,Female,64,Beauty,Blender,2,367.09,2023-08-27,Durban,Credit Card,Cancelled,1,734.18
+ORD1487,CUST182,Male,39,Books,Puzzle,4,97.77,2023-09-17,Durban,Cash,Cancelled,3,391.08
+ORD1488,CUST141,Other,51,Clothing,Shirt,3,429.8,2023-12-31,Port Elizabeth,PayPal,Delivered,2,1289.4
+ORD1489,CUST192,Male,64,Electronics,Cookbook,4,410.44,2023-06-12,Pretoria,PayPal,Pending,3,1641.76
+ORD1490,CUST163,Female,25,Clothing,Puzzle,1,272.69,2023-02-17,Cape Town,Cash,Pending,5,272.69
+ORD1491,CUST133,Female,57,Clothing,Puzzle,1,356.57,2023-11-25,Port Elizabeth,Credit Card,Cancelled,3,356.57
+ORD1492,CUST151,Male,66,Beauty,Doll,4,160.6,2023-11-24,Cape Town,Debit Card,Returned,2,642.4
+ORD1493,CUST183,Other,61,Electronics,Phone,4,238.23,2023-04-26,Pretoria,PayPal,Pending,1,952.92
+ORD1494,CUST167,Female,36,Electronics,Novel,2,411.71,2023-12-03,Durban,Debit Card,Cancelled,4,823.42
+ORD1495,CUST149,Female,59,Electronics,Pants,4,232.34,2023-12-03,Cape Town,Bank Transfer,Pending,3,929.36
+ORD1496,CUST188,Female,58,Electronics,Perfume,2,182.11,2023-08-13,Johannesburg,Credit Card,Returned,2,364.22
+ORD1497,CUST148,Male,54,Electronics,Phone,1,249.64,2023-12-18,Johannesburg,Bank Transfer,Cancelled,4,249.64
+ORD1498,CUST131,Female,23,Beauty,Doll,2,414.98,2023-11-24,Port Elizabeth,Bank Transfer,Returned,4,829.96
+ORD1499,CUST148,Other,69,Books,Cookbook,4,170.93,2023-05-27,Pretoria,Bank Transfer,Cancelled,5,683.72
